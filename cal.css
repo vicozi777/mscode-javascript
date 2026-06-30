@@ -1,0 +1,23 @@
+section{
+    background-color: black;
+    padding: 40px;
+    border-radius: 12px;
+    
+}
+body{
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+section input{
+    border-radius: 7px;
+    border:none;
+    padding: 7px;
+}
+section button{
+    border-radius: 7px;
+    border: none;
+    margin: 10px;
+    
+}
